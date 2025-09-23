@@ -1,0 +1,29 @@
+leftnav:
+- identifier: 89de5d32-58d5-7f61-320b-2719edf92111
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: ada7ceaf-fe98-9345-29ee-a020720e7c4c
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: bad3c0e7-381b-2096-3b6d-fd3c887e2be9
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 24b4783b-01bd-9266-c95e-35fdec20a9d1
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: aaa0e947-a6f6-b29c-5225-98b90ee31944
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: 80a41719-c571-5a2d-7b39-ba2514ef5b68
+  name: MATLAB Files
+  pageRef: /pages/matlab-files
+  weight: 60
+- identifier: b47db6a9-6e19-a532-2c57-3a97bde7173c
+  name: Projects
+  pageRef: /pages/projects
+  weight: 70
