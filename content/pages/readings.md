@@ -17,13 +17,13 @@ Readings are assigned in the following textbooks:
 
 \[Evans\] = Evans, Lawrence C. Vol. 19. Graduate studies in mathematics. Providence, RI: American Mathematical Society, 1998. ISBN: 9780821807729.
 
-\[Strang\] = Strang, Gilbert. *Computational Science and Engineering*. Wellesley, MA: {{% resource_link "c9834a86-e0ad-418e-8c4a-4dd28c85d82a" "Wellesley-Cambridge Press" %}}, 2007. ISBN: 9780961408817.
+\[Strang\] = Strang, Gilbert. *Computational Science and Engineering*. Wellesley, MA: [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2007. ISBN: 9780961408817.
 
-\[LeVeque2007\] = LeVeque, Randall J. {{% resource_link "871fafd8-d299-436e-b733-7c3f58bff2ab" "*Finite Difference Methods for Ordinary and Partial Differential Equations: Steady-State and Time-Dependent Problems*" %}}. Philadelphia, PA: Society for Industrial and Applied Mathematics, 2007. ISBN: 9780898716290.
+\[LeVeque2007\] = LeVeque, Randall J. [*Finite Difference Methods for Ordinary and Partial Differential Equations: Steady-State and Time-Dependent Problems*](https://epubs.siam.org/doi/book/10.1137/1.9780898717839). Philadelphia, PA: Society for Industrial and Applied Mathematics, 2007. ISBN: 9780898716290.
 
-\[Trefethen\] = Trefethen, Lloyd N. {{% resource_link "27ed5249-5d88-4c8b-87ce-69a1717a0e9e" "*Spectral Methods in MATLAB (Software, Environments, Tools)*" %}}. Philadelphia, PA: Society for Industrial and Applied Mathematics, 2001. ISBN: 9780898714654.
+\[Trefethen\] = Trefethen, Lloyd N. [*Spectral Methods in MATLAB (Software, Environments, Tools)*](http://dx.doi.org/10.1137/1.9780898719598). Philadelphia, PA: Society for Industrial and Applied Mathematics, 2001. ISBN: 9780898714654.
 
-\[LeVeque2002\] = LeVeque, Randall J. {{% resource_link "bcf3e896-b898-4fa0-87a2-7ff6058f705c" "*Finite Volume Methods for Hyperbolic Problems*" %}}. Cambridge texts in applied mathematics. Cambridge, UK: Cambridge University Press, 2002. ISBN: 9780521009249.
+\[LeVeque2002\] = LeVeque, Randall J. [*Finite Volume Methods for Hyperbolic Problems*](http://depts.washington.edu/clawpack/book.html). Cambridge texts in applied mathematics. Cambridge, UK: Cambridge University Press, 2002. ISBN: 9780521009249.
 
 \[Fletcher\] = Fletcher, C. A. J. *Computational Techniques for Fluid Dynamics. Fundamental and General Techniques Volume I*. Springer series in computational physics. New York, NY: Springer-Verlag, 1996. ISBN: 9783540530589.
 
@@ -169,9 +169,9 @@ Operator splitting, fractional steps
 Systems of IVP, wave equation, leapfrog, staggered grids
 {{< tdclose >}}{{< tdopen >}}
 
-Notes on the wave equation ({{% resource_link "4ebc2383-ba45-46b6-b839-3bf79cf2d7b1" "PDF" %}})
+Notes on the wave equation ([PDF](http://math.mit.edu/~stevenj/18.369/wave-equations.pdf))
 
-Notes on perfectly matching layers ({{% resource_link "d9d391f8-7ef0-407e-a401-3f6e35194fc7" "PDF" %}})
+Notes on perfectly matching layers ([PDF](http://math.mit.edu/~stevenj/18.369/pml.pdf))
 
 (Courtesy of Steven G. Johnson. Used with permission.)
 

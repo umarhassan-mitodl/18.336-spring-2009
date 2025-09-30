@@ -5,6 +5,8 @@ description: This resource contains solution to the four linear PDE solved by Fo
 file: /courses/18-336-numerical-methods-for-partial-differential-equations-spring-2009/327c2253074f00512050cfd78937ec5e_mit18086_linpde_fourier.m
 file_size: 816
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

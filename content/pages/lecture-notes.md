@@ -2,6 +2,8 @@
 content_type: page
 description: 'This section features the full set of the lecture notes for the course
   (except one guest lecture). '
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -118,7 +120,7 @@ Spectral methods
 8
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "9409c58e-b71b-441f-9031-0b2c71d26713" "Fast Fourier transform" %}} (guest lecture by Steven Johnson)
+[Fast Fourier transform](http://cnx.org/content/m16336/latest/) (guest lecture by Steven Johnson)
 {{< tdclose >}}
 {{< tdopen >}}
  
