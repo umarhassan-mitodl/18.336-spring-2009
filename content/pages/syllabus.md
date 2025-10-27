@@ -19,7 +19,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 ## Prerequisites
 
-[*Introduction to Numerical Analysis (18.330)*](https://ocw.mit.edu/courses/mathematics/18-330-introduction-to-numerical-analysis-spring-2004/), [*Introduction to Numerical Methods (18.335J)*](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/)
+{{% resource_link "3ce25730-de84-4981-8430-28b897f8b6f8" "*Introduction to Numerical Analysis (18.330)*" %}}, {{% resource_link "473be66c-73a2-43be-834b-d2fe4eeec9cd" "*Introduction to Numerical Methods (18.335J)*" %}}
 
 ## Description
 
@@ -33,9 +33,9 @@ This course addresses graduate students of all fields who are interested in nume
 
 The course is inspired by the following books, which are all recommended:
 
-LeVeque, Randall J. [*Finite Difference Methods for Ordinary and Partial Differential Equations: Steady-State and Time-Dependent Problems*](http://sgpwe.izt.uam.mx/files/users/uami/mlss/documentos/LeVequeRJ.pdf). Philadelphia, PA: Society for Industrial and Applied Mathematics, 2007. ISBN: 9780898716290.
+LeVeque, Randall J. {{% resource_link "7332fb79-85cd-4873-8e59-88bfcaa0937f" "*Finite Difference Methods for Ordinary and Partial Differential Equations: Steady-State and Time-Dependent Problems*" %}}. Philadelphia, PA: Society for Industrial and Applied Mathematics, 2007. ISBN: 9780898716290.
 
-———. [*Finite Volume Methods for Hyperbolic Problems*](http://depts.washington.edu/clawpack/book.html). Cambridge texts in applied mathematics. Cambridge, UK: Cambridge University Press, 2002. ISBN: 9780521009249.
+———. {{% resource_link "6745df2e-132f-49a0-832c-7f0e9464b99a" "*Finite Volume Methods for Hyperbolic Problems*" %}}. Cambridge texts in applied mathematics. Cambridge, UK: Cambridge University Press, 2002. ISBN: 9780521009249.
 
 Fletcher, C. A. J. *Computational Techniques for Fluid Dynamics. Fundamental and General Techniques Volume I*. Springer series in computational physics. New York, NY: Springer-Verlag, 1996. ISBN: 9783540530589.
 
@@ -43,7 +43,7 @@ Fletcher, C. A. J. *Computational Techniques for Fluid Dynamics. Fundamental and
 
 Canuto, Claudio S., M. Y. Hussaini, A. Quarteroni, and T. A. Zang. *Spectral Methods Evolution to Complex Geometries and Applications to Fluid Dynamics*. New York, NY: Springer-Verlag, 2007. ISBN: 9783540307273.
 
-Trefethen, Lloyd N. [*Spectral Methods in MATLAB (Software, Environments, Tools)*](https://epubs.siam.org/doi/book/10.1137/1.9780898719598). Philadelphia, PA: Society for Industrial and Applied Mathematics, 2001. ISBN: 9780898714654.
+Trefethen, Lloyd N. {{% resource_link "9bd41df1-048f-4c9f-a292-999752f184a2" "*Spectral Methods in MATLAB (Software, Environments, Tools)*" %}}. Philadelphia, PA: Society for Industrial and Applied Mathematics, 2001. ISBN: 9780898714654.
 
 Evans, Lawrence C. Vol. 19. Graduate studies in mathematics. Providence, RI: American Mathematical Society, 1998. ISBN: 9780821807729.
 
