@@ -5,8 +5,6 @@ description: This resource contains description how to the Compute stencil appro
 file: /courses/18-336-numerical-methods-for-partial-differential-equations-spring-2009/5d904bd2074fe0e6efc7db7ca08b9d98_mit18086_stencil_stability.m
 file_size: 1108
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
